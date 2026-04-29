@@ -217,17 +217,20 @@ function App() {
       {showFullScreenImage && (
         <div className="full-screen-image-container">
   <div className="full-screen-image">
-    <h1 style={{ margin: '2rem' }}>To My Sweetheart (Ma)💖</h1>
+    <h1 style={{ margin: '2rem' }}>To My Sweetheart (Engyin) 🌺</h1>
     <p style={{ margin: '2rem' }}>
-      From the moment I met you, my world became brighter. <br />
-      Your smile lights up even my darkest days, and your presence is the
-      calm in my chaos. <br />
-      Every heartbeat whispers your name, and every star reminds me of your
-      beauty. <br /><br />
-      You're not just my crush — you're my favorite thought, my quiet hope,
-      and my little forever. 💫
+      Every morning feels worth waking up because of you. <br />
+      You are the reason I breathe a little deeper, smile a little brighter, and believe a little stronger in love.
+      <br />
+      With every heartbeat, it’s your name my heart quietly calls.<br />
+      In every silence, I hear you like a beautiful song playing just for me.<br />
+      You’re not just part of my life.You are my melody, the rhythm that keeps me going. <br />
+      You’ve turned my ordinary days into something magical,
+and my world into a place I never want to leave as long as you’re in it.<br /><br />
+      You’re not just someone I love 
+you’re my peace, my happiness, and my forever feeling.  💫
     </p>
-    <p style={{ margin: '2rem' }}>— With all my heart (Shine) 💗</p>
+    <p style={{ margin: '2rem' }}>— With all my heart (Khant Thu) 🌻</p>
   </div>
 </div>
       )}
