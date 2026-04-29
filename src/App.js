@@ -218,12 +218,15 @@ function App() {
         <div className="full-screen-image-container">
   <div className="full-screen-image">
     <h1 style={{ margin: '2rem' }}>To My Sweetheart (Engyin) 🌺</h1>
-    <p style={{ margin: '2rem' }}>
-    I'm crazy about you <br/>
+        <p style={{ margin: '2rem' }}>
+        I'm crazy about you <br/>
 Maybe Sure this First Love  <br/>
 You are my choice for my life  <br/>
 Therefore give me a chance  <br/> 
 Yeah I'm Only your Spider Man  <br/>
+  </p>
+    <p style={{ margin: '2rem' }}>
+    
       Every morning feels worth waking up because of you. <br />
       You are the reason I breathe a little deeper, smile a little brighter, and believe a little stronger in love.
       <br />
